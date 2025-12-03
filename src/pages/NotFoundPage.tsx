@@ -1,6 +1,6 @@
 import { useNavigate } from 'react-router-dom';
 import { Layout } from '@/components/layout/Layout';
-import { Button } from '@/components/ui/Button';
+import { Button } from '../components/ui/Button';
 import { Home, ArrowLeft } from 'lucide-react';
 
 export default function NotFoundPage() {
