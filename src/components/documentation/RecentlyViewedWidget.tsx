@@ -1,6 +1,6 @@
 import { Clock, FileText } from "lucide-react";
 import { SidebarWidget } from "./SidebarWidget";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 
 interface RecentItem {
   id: string;

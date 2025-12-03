@@ -1,6 +1,6 @@
 import { Mail } from "lucide-react";
 import { SidebarWidget } from "./SidebarWidget";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 
 export function RegisterWidget() {
   return (

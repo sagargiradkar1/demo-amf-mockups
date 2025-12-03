@@ -1,6 +1,6 @@
 import { Star, FileText, X } from "lucide-react";
 import { SidebarWidget } from "./SidebarWidget";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 
 interface Favorite {
   id: string;
